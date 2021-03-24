@@ -1,3 +1,5 @@
+# ce code a été réalisé par Elouann uniquement grâce à ses connaissances (eheh)
+
 from math import *
 
 # Entrez vos classes et vos effectifs juste en dessous. N'utilisez que des nombres réels,
