@@ -5,8 +5,8 @@ from math import *
 # Entrez vos classes et vos effectifs juste en dessous. N'utilisez que des nombres réels,
 # sans caractères spéciaux ni marque de string. Exemple :
 # écrire : [10, 12, 20] et non : ['10', "12", a20]
-classes = [1, 2, 3, 4, 5, 2, 2]
-effectifs = [1, 1, 1, 1, 1, 2, 2]
+classes = [1, 2, 3, 4, 5, 6, 7]
+effectifs = [1, 5, 17, 8, 9, 0, 5]
 
 # NE PAS REMPLIR CECI
 ECC = []
